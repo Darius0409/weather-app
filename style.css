@@ -1,0 +1,68 @@
+/* Setarile generale a paginii */
+
+body {
+    background-color:#eaf2f8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding:50px;
+}
+
+/* Titlul Principal */
+
+h1 {
+    color: #1a5276;
+    font-size: 50px;
+}
+
+/* Paragraful */
+
+p {
+    color:#566573;
+    font-size: 20px;
+}
+ .weather-container {
+    max-width: 500px;
+    margin: 0 auto;
+ }
+
+ .weather-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+ }
+  
+ .weather-card h2 {
+    color: #1a5276;
+    font-size: 20px ;
+ }
+
+ .weather-icon {
+    font-size: 60px;
+ }
+ 
+ .temperature {
+    font-size: 55px;
+    font-weight: bold;
+    color:#1a5276;
+ }
+
+ .description {
+    font-size: 20px;
+    color:#566573; 
+ }
+
+.weather-details {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
